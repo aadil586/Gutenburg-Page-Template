@@ -1,1 +1,1 @@
-"# cpt-plugin" 
+"wordPress plugin for the Gutenburg Page Template"
